@@ -17,10 +17,6 @@
   --hover-color: rgba(50, 49, 45, 0.4);
 }
 
-.theme-light .page {
-  /* Вам также нужно будет написать ряд подобных селекторов */
-}
-
 .theme-light .text {
   color: var(--txt-color);
 }
