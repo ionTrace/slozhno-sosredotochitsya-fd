@@ -97,7 +97,7 @@
   right: 39px;
   justify-self: end;
   font-weight: normal;
-  font-size: 18px;
+  font-size: var(--main-ft-size);
   line-height: 25px;
   color: var(--accent-color);
   text-transform: uppercase;
