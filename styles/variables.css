@@ -2,3 +2,23 @@
   Переменные для вашего проекта
   и их переопределение под различные устройства
 */
+:root {
+  --bg-image: url(../images/cover-image-dark.png);
+  --ice-cream: url(../images/ice-cream.png);
+  --books: url(../images/books.png);
+  --street: url(../images/street.png);
+  --sunset: url(../images/sunset.png);
+  --tape: url(../images/tape.png);
+  --accent-color: #FF0070;
+  --hover-color: rgba(255, 0, 112, 0.4);
+  --cover-title-color: #DB00FF;
+  --main-bg-color: #000028;
+  --txt-color: #F1B2CE;
+  --ft-weight-bold: 700;
+  --ft-weight-normal: 400;
+  --main-ft-size: 18px;
+  --cover-txt-ft-size_mob: clamp(7.25rem, 7.0115rem + 1.0178vw, 7.5rem);
+  --cover-txt-ft-size: clamp(7.5rem, 0.5625rem + 14.4531vw, 9.8125rem);
+  --main-padding: 0 10px;
+  --header-padding: 10px;
+}
